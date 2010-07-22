@@ -1,0 +1,6 @@
+Author: John Mangino
+
+You will need to include a config with your sensitive info.
+You will also need to setup a user just to receive these emails and forward incoming emails to the script in the users homedir .forward file.
+It will look something like this:
+|/var/www/www.example.com/web/handler.php
